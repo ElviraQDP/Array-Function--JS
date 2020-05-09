@@ -13,4 +13,4 @@ function onLoad()
     (whoRandom+ whatRandom + whenRandom)
 }
 
-Document.getElementById("excuse").innerHTML
+Document.getElementById("#excuse").innerHTML = ""
